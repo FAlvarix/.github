@@ -7,9 +7,15 @@ Welcome to the official code hub for the **FAlvarix** ecosystem. Here you will f
 ---
 
 ### 🌐 Explore the Ecosystem
-* 📺 **YouTube (ES):** [://youtube.com](https://www.://youtube.com)
-* 📺 **YouTube (EN):** [://youtube.com-en](https://www.://youtube.com-en)
+
+#### FAlvarix ES
+
+* 📺 **YouTube:** [://youtube.com](https://www.youtube.com/falvarix)
 * 📝 **Blog FAlvarix (ES):** [es.falvarix.eu](https://es.falvarix.eu)
+
+#### FAlvarix EN
+
+* 📺 **YouTube:** [://youtube.com-en](https://www.youtube.com/falvarix-en)
 * 📝 **Blog FAlvarix (EN):** [en.falvarix.eu](https://en.falvarix.eu)
 
 ### 🗂️ Repository Golden Paths
