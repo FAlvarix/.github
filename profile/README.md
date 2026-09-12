@@ -10,13 +10,13 @@ Welcome to the official code hub for the **FAlvarix** ecosystem. Here you will f
 
 #### FAlvarix ES
 
-* 📺 **YouTube:** [://youtube.com](https://www.youtube.com/falvarix)
-* 📝 **Blog FAlvarix (ES):** [es.falvarix.eu](https://es.falvarix.eu)
+* 📺 **YouTube:** [FAlvarix](https://www.youtube.com/falvarix)
+* 📝 **Blog FAlvarix (ES):** [FAlvarix](https://es.falvarix.eu)
 
 #### FAlvarix EN
 
-* 📺 **YouTube:** [://youtube.com-en](https://www.youtube.com/falvarix-en)
-* 📝 **Blog FAlvarix (EN):** [en.falvarix.eu](https://en.falvarix.eu)
+* 📺 **YouTube:** [FAlvarix-en](https://www.youtube.com/falvarix-en)
+* 📝 **Blog FAlvarix (EN):** [FAlvarix-en](https://en.falvarix.eu)
 
 ### 🗂️ Repository Golden Paths
 All our repositories follow a strict **"1 Video + 1 Article + 1 Repo"** policy. Every guide is completely self-contained, open-source, and free of marketing fluff.
