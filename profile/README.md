@@ -9,8 +9,8 @@ Welcome to the official code hub for the **FAlvarix** ecosystem. Here you will f
 ### 🌐 Explore the Ecosystem
 * 📺 **YouTube (ES):** [://youtube.com](https://www.://youtube.com)
 * 📺 **YouTube (EN):** [://youtube.com-en](https://www.://youtube.com-en)
-* 📝 **Blog (ES):** [es.falvarix.eu](https://falvarix.eu)
-* 📝 **Blog (EN):** [en.falvarix.eu](https://falvarix.eu)
+* 📝 **Blog FAlvarix (ES):** [es.falvarix.eu](https://es.falvarix.eu)
+* 📝 **Blog FAlvarix (EN):** [en.falvarix.eu](https://en.falvarix.eu)
 
 ### 🗂️ Repository Golden Paths
 All our repositories follow a strict **"1 Video + 1 Article + 1 Repo"** policy. Every guide is completely self-contained, open-source, and free of marketing fluff.
