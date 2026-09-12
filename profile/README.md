@@ -7,25 +7,25 @@
 <!-- SHIELDS/BADGES SECTION -->
 <p align="center">
   <a href="https://youtube.com/@falvarix">
-    <img src="https://img.shields.io/badge/YouTube%20__%20(ES)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube ES" />
+    <img src="https://img.shields.io/badge/YouTube_(ES)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube ES" />
   </a>
   <a href="https://es.falvarix.eu">
-    <img src="https://img.shields.io/badge/Blog%20__%20(ES)-121013?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog ES" />
+    <img src="https://img.shields.io/badge/Blog_(ES)-181A1B?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog ES" />
   </a>
   <a href="https://linkedin.com/company/falvarix">
-    <img src="https://img.shields.io/badge/LinkedIn%20__%20(ES)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ES" />
+    <img src="https://img.shields.io/badge/LinkedIn_(ES)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ES" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://youtube.com/@falvarix-en">
-    <img src="https://img.shields.io/badge/YouTube%20__%20(EN)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube EN" />
+    <img src="https://img.shields.io/badge/YouTube_(EN)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube EN" />
   </a>
   <a href="https://en.falvarix.eu">
-    <img src="https://img.shields.io/badge/Blog%20__%20(EN)-121013?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog EN" />
+    <img src="https://img.shields.io/badge/Blog_(EN)-181A1B?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog EN" />
   </a>
   <a href="https://linkedin.com/company/falvarix-eng">
-    <img src="https://img.shields.io/badge/LinkedIn%20__%20(EN)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn EN" />
+    <img src="https://img.shields.io/badge/LinkedIn_(EN)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn EN" />
   </a>
 </p>
 
